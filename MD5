@@ -1,0 +1,14 @@
+63b675ea518d0d84385077d9001743eb *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+2b1171e0e13d13c615d6622c0180a629 *R/hiv.mortmod.R
+2c4c64efddf0f129c1794e5044107bbd *R/mortmod.45q15.R
+a1c1c6c7536f9d408837816903bd3062 *R/mortmod.5q0.R
+93798cd34913810e04a18c8301eb841d *R/mortmod.e0.R
+6bfddbda730ca1d6bc4be59c8142be8d *data/HIV-MLTs-obs.RData
+a9ed7bab24c275710db2fec52b7b207a *inst/doc/HIV-LifeTables-opt-guide.pdf
+16bb5b99f6659f6087a3230d3806c40d *man/HIV.LifeTables-internal.Rd
+8ad1ab36117975667a23b5cfd8ffb4f6 *man/HIV.LifeTables-package.Rd
+4946e2d147b9cd104e85e3a483e698a2 *man/hiv.mortmod.Rd
+161b800ab41c9937ba26656aaf2eb303 *man/mortmod.45q15.Rd
+845548dd45bf33ecc1b969fa7acc8c87 *man/mortmod.5q0.Rd
+97ec0d8ed0540c9a237f2323ebc88935 *man/mortmod.e0.Rd
